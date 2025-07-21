@@ -25,8 +25,9 @@
 ---
 
 ## 文件列表
-- `Spatiotemporal Analysis and Prediction Modeling of Air Pollution in Dublin Based on Traffic and Meteorological Factors.pdf`
-- `Urban Air Pollution Structures and Their Social-Environmental Drivers A Multivariate Analysis Based on PCA and Machine Learning.pdf`
-- `Dissecting Fake and Real News- A Text-Based Analysis of Linguistic and Emotional Patterns.pdf`
-- `互联网医疗平台问诊数据的多维行为挖掘与预测建模.pdf`
+- [Spatiotemporal Analysis and Prediction Modeling of Air Pollution in Dublin Based on Traffic and Meteorological Factors.pdf](Spatiotemporal%20Analysis%20and%20Prediction%20Modeling%20of%20Air%20Pollution%20in%20Dublin%20Based%20on%20Traffic%20and%20Meteorological%20Factors.pdf)
+- [Urban Air Pollution Structures and Their Social-Environmental Drivers A Multivariate Analysis Based on PCA and Machine Learning.pdf](Urban%20Air%20Pollution%20Structures%20and%20Their%20Social-Environmental%20Drivers%20A%20Multivariate%20Analysis%20Based%20on%20PCA%20and%20Machine%20Learning.pdf)
+- [Dissecting Fake and Real News- A Text-Based Analysis of Linguistic and Emotional Patterns.pdf](Dissecting%20Fake%20and%20Real%20News-%20A%20Text-Based%20Analysis%20of%20Linguistic%20and%20Emotional%20Patterns.pdf)
+- [互联网医疗平台问诊数据的多维行为挖掘与预测建模.pdf](%E4%BA%92%E8%81%94%E7%BD%91%E5%8C%BB%E7%96%97%E5%B9%B3%E5%8F%B0%E9%97%AE%E8%AF%8A%E6%95%B0%E6%8D%AE%E7%9A%84%E5%A4%9A%E7%BB%B4%E8%A1%8C%E4%B8%BA%E6%8C%96%E6%8E%98%E4%B8%8E%E9%A2%84%E6%B5%8B%E5%BB%BA%E6%A8%A1.pdf)
+
 
